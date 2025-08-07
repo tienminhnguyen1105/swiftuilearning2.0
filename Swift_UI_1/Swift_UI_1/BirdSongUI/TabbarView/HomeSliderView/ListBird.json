@@ -1,0 +1,106 @@
+
+[
+  {
+    "full_desc": "The common chiffchaff (Phylloscopus collybita), or simply the chiffchaff, is a common and widespread leaf warbler which breeds in open woodlands throughout northern and temperate Europe and the Palearctic.\nIt is a migratory passerine which winters in southern and western Europe, southern Asia and north Africa. Greenish-brown above and off-white below, it is named onomatopoeically for its simple chiff-chaff song. It has a number of subspecies, some of which are now treated as full species. The female builds a domed nest on or near the ground, and assumes most of the responsibility for brooding and feeding the chicks, whilst the male has little involvement in nesting, but defends his territory against rivals, and attacks potential predators.\nA small insectivorous bird, it is subject to predation by mammals, such as cats and mustelids, and birds, particularly hawks of the genus Accipiter. Its large range and population mean that its status is secure, although one subspecies is probably extinct.\n\n",
+    "name": "Common Chiffchaff",
+    "wiki_link": "https://en.wikipedia.org/wiki/Common_Chiffchaff",
+    "sound": "http://birdsongapi.breakerai.com/sounds/Common_Chiffchaff/1.mp3",
+    "id": 0,
+    "confidence": 100,
+    "scientific_name" : "Phylloscopus collybita",
+    "listSound":[],
+    "images": [
+      "http://birdsongapi.breakerai.com/images/Common_Chiffchaff/1.jpg"
+    ]
+  },
+  {
+    "full_desc": "The European goldfinch or simply the goldfinch (Carduelis carduelis) is a small passerine bird in the finch family that is native to Europe, North Africa and western and central Asia. It has been introduced to other areas, including Australia, New Zealand and Uruguay.\nThe breeding male has a red face with black markings around the eyes, and a black-and-white head. The back and flanks are buff or chestnut brown. The black wings have a broad yellow bar. The tail is black and the rump is white. Males and females are very similar, but females have a slightly smaller red area on the face.\nThe goldfinch is often depicted in Italian Renaissance paintings of the Madonna and Child.",
+    "name": "European Goldfinch",
+    "scientific_name" : "Carduelis carduelis",
+    "wiki_link": "https://en.wikipedia.org/wiki/European_Goldfinch",
+    "sound": "http://birdsongapi.breakerai.com/sounds/European_Goldfinch/1.mp3",
+    "listSound":[],
+    "id": 1,
+    "confidence": 100,
+    "images": [
+      "http://birdsongapi.breakerai.com/images/European_Goldfinch/1.jpg"
+    ]
+  },
+  {
+    "full_desc": "The red crossbill or common crossbill (Loxia curvirostra) is a small passerine bird in the finch family Fringillidae. Crossbills have distinctive mandibles, crossed at the tips, which enable them to extract seeds from conifer cones and other fruits.\nAdults are often brightly coloured, with red or orange males and green or yellow females, but there is wide variation in beak size and shape, and call types, leading to different classifications of variants, some of which have been named as subspecies. The species is known as \"red crossbill\" in North America and \"common crossbill\" in Europe.",
+    "name": "Red Crossbill",
+    "scientific_name" : "Loxia curvirostra",
+    "wiki_link": "https://en.wikipedia.org/wiki/Red_Crossbill",
+    "sound": "http://birdsongapi.breakerai.com/sounds/Red_Crossbill/1.mp3",
+    "listSound":[],
+    "id": 2,
+    "confidence": 100,
+    "images": [
+      "http://birdsongapi.breakerai.com/images/Red_Crossbill/1.jpg"
+    ]
+  },
+  {
+    "full_desc": "The broad-billed hummingbird (Cynanthus latirostris) is a small-sized hummingbird that resides in Mexico and the southwestern United States. The bird displays sexual dimorphism, and the juveniles resemble the female adult more than the male adult. The broad-billed hummingbird is a bright coloured bird with a broad and bright red bill. The bird is also known for its other common names – the Colibrí Pico Ancho in Spanish and Colibri circé in French. It is a diurnal bird.",
+    "name": "Broad-billed Hummingbird",
+    "scientific_name" : "Cynanthus latirostris",
+    "wiki_link": "https://en.wikipedia.org/wiki/Broad-billed_Hummingbird",
+    "sound": "http://birdsongapi.breakerai.com/sounds/Broad-billed_Hummingbird/1.mp3",
+    "listSound":[],
+    "id": 3,
+    "confidence": 100,
+    "images": [
+      "http://birdsongapi.breakerai.com/images/Broad-billed_Hummingbird/1.jpg"
+    ]
+  },
+  {
+    "full_desc": "The northern cardinal (Cardinalis cardinalis) is a bird in the genus Cardinalis; it is also known colloquially as the redbird, common cardinal, red cardinal, or just cardinal (which was its name prior to 1985). It can be found in southeastern Canada, through the eastern United States from Maine to Minnesota to Texas, New Mexico, southern Arizona, southern California, and south through Mexico, Belize, and Guatemala. It is also an introduced species in a few locations such as Bermuda and Hawaii. Its habitat includes woodlands, gardens, shrublands, and wetlands.\nThe northern cardinal is a mid-sized songbird with a body length of 21–23 cm (8.3–9.1 in). It has a distinctive crest on the head and a mask on the face which is black in the male and gray in the female. The male is a vibrant red, while the female is a reddish olive color. The northern cardinal is mainly granivorous, but also feeds on insects and fruit. The male behaves territorially, marking out his territory with song. During courtship, the male feeds seed to the female beak-to-beak. A clutch of three to four eggs is laid, and two to four clutches are produced each year. It was once prized as a pet, but its sale as a cage bird was banned in the United States by the Migratory Bird Treaty Act of 1918.",
+    "name": "Northern Cardinal",
+    "scientific_name" : "Cardinalis cardinalis",
+    "wiki_link": "https://en.wikipedia.org/wiki/Northern_Cardinal",
+    "sound": "http://birdsongapi.breakerai.com/sounds/Northern_Cardinal/1.mp3",
+    "listSound":[],
+    "id": 4,
+    "confidence": 100,
+    "images": [
+      "http://birdsongapi.breakerai.com/images/Northern_Cardinal/1.jpg"
+    ]
+  },
+  {
+    "full_desc": "The wood sandpiper (Tringa glareola) is a small wader. This Eurasian species is the smallest of the shanks, which are mid-sized long-legged waders of the family Scolopacidae. The genus name Tringa is the New Latin name given to the green sandpiper by Aldrovandus in 1599 based on Ancient Greek trungas, a thrush-sized, white-rumped, tail-bobbing wading bird mentioned by Aristotle. The specific  glareola is from Latin glarea, \" gravel\".",
+    "name": "Wood Sandpiper",
+    "scientific_name" : "Tringa glareola",
+    "wiki_link": "https://en.wikipedia.org/wiki/Wood_Sandpiper",
+    "sound": "http://birdsongapi.breakerai.com/sounds/Wood_Sandpiper/1.mp3",
+    "id": 5,
+    "confidence": 100,
+    "images": [
+      "http://birdsongapi.breakerai.com/images/Wood_Sandpiper/1.jpg"
+    ]
+  },
+  {
+    "full_desc": "The collared sunbird (Hedydipna collaris) is a bird species of the family Nectariniidae. The sunbirds are a group of very small Old World passerine birds which feed largely on nectar, although they will also take insects, especially when feeding young. The collared sunbird is in fact mainly insectivorous.\n\nSunbird flight is fast and direct on their short wings. Most species can take nectar by hovering like a hummingbird, but usually perch to feed most of the time.\nThe collared sunbird is a common breeder across most of sub-Saharan Africa. Two or three eggs are laid in a suspended nest in a tree. It is a seasonal bird migrant within its range.\nCollared sunbirds are tiny, only 9–10 cm (3.5–3.9 in) long. They have short thin down-curved bills and brush-tipped tubular tongues, both adaptations to nectar feeding.\nThe adult male has glossy green upperparts and head with a yellow belly and narrow purple breast band. The female is a duller green above and entirely yellow below.\nThis species inhabits forests near water.",
+    "name": "Collared Sunbird",
+    "scientific_name" : "Hedydipna collaris",
+    "wiki_link": "https://en.wikipedia.org/wiki/Collared_Sunbird",
+    "sound": "http://birdsongapi.breakerai.com/sounds/Collared_Sunbird/1.mp3",
+    "listSound":[],
+    "id": 6,
+    "confidence": 100,
+    "images": [
+      "http://birdsongapi.breakerai.com/images/Collared_Sunbird/1.jpg"
+    ]
+  },
+  {
+    "full_desc": "The western sandpiper (Calidris mauri) is a small shorebird. The genus name is from Ancient Greek kalidris or skalidris, a term used by Aristotle for some grey-coloured waterside birds. The specific mauri commemorates Italian botanist Ernesto Mauri (1791–1836).This is one of the most abundant shorebird species in North America, with a population in the millions.",
+    "name": "Western Sandpiper",
+    "scientific_name" : "Calidris mauri",
+    "wiki_link": "https://en.wikipedia.org/wiki/Western_Sandpiper",
+    "sound": "http://birdsongapi.breakerai.com/sounds/Western_Sandpiper/1.mp3",
+    "listSound":[],
+    "id": 7,
+    "confidence": 100,
+    "images": [
+      "http://birdsongapi.breakerai.com/images/Western_Sandpiper/1.jpg"
+    ]
+  }
+]

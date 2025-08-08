@@ -1,9 +1,8 @@
 //
 //  HomeBannerView.swift
-//  Swift_UI_1
+//  Birdsong_SwiftUI
 //
-//  Created by Nguyễn Tiến Minh on 06/08/2025.
-//
+
 
 import SwiftUI
 

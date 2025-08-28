@@ -27,6 +27,11 @@
 		001BCBAC2E45E87F00CDF089 /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCBAB2E45E87F00CDF089 /* RotatedBadgeSymbol.swift */; };
 		001BCBAF2E45E8D200CDF089 /* Section 4 Combine the badge foreground and background.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCBAE2E45E8D200CDF089 /* Section 4 Combine the badge foreground and background.swift */; };
 		001BCBB22E45E97E00CDF089 /* Section 2 Draw the badge background.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCBB12E45E97E00CDF089 /* Section 2 Draw the badge background.swift */; };
+		001BCBB62E49A95700CDF089 /* Section 1_Add hiking data to the app.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCBB52E49A95700CDF089 /* Section 1_Add hiking data to the app.swift */; };
+		001BCBB82E49A97600CDF089 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCBB72E49A97600CDF089 /* Hike.swift */; };
+		001BCBBA2E49D23200CDF089 /* HikeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCBB92E49D23200CDF089 /* HikeView.swift */; };
+		001BCBBC2E49D36500CDF089 /* HikeGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCBBB2E49D36500CDF089 /* HikeGraph.swift */; };
+		001BCBC02E49E33F00CDF089 /* Section 1_Add a category view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCBBF2E49E33F00CDF089 /* Section 1_Add a category view.swift */; };
 		00B3FCEE2C6DA1CC00F92FC4 /* Swift_UI_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B3FCED2C6DA1CC00F92FC4 /* Swift_UI_1App.swift */; };
 		00B3FCF02C6DA1CC00F92FC4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B3FCEF2C6DA1CC00F92FC4 /* ContentView.swift */; };
 		00B3FCF52C6DA1CD00F92FC4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00B3FCF42C6DA1CD00F92FC4 /* Preview Assets.xcassets */; };
@@ -65,6 +70,11 @@
 		001BCBAB2E45E87F00CDF089 /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
 		001BCBAE2E45E8D200CDF089 /* Section 4 Combine the badge foreground and background.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Section 4 Combine the badge foreground and background.swift"; sourceTree = "<group>"; };
 		001BCBB12E45E97E00CDF089 /* Section 2 Draw the badge background.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Section 2 Draw the badge background.swift"; sourceTree = "<group>"; };
+		001BCBB52E49A95700CDF089 /* Section 1_Add hiking data to the app.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Section 1_Add hiking data to the app.swift"; sourceTree = "<group>"; };
+		001BCBB72E49A97600CDF089 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
+		001BCBB92E49D23200CDF089 /* HikeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeView.swift; sourceTree = "<group>"; };
+		001BCBBB2E49D36500CDF089 /* HikeGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeGraph.swift; sourceTree = "<group>"; };
+		001BCBBF2E49E33F00CDF089 /* Section 1_Add a category view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Section 1_Add a category view.swift"; sourceTree = "<group>"; };
 		00B3FCEA2C6DA1CC00F92FC4 /* Swift_UI_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift_UI_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00B3FCED2C6DA1CC00F92FC4 /* Swift_UI_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_UI_1App.swift; sourceTree = "<group>"; };
 		00B3FCEF2C6DA1CC00F92FC4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -196,6 +206,41 @@
 			path = "Section 2 Draw the badge background";
 			sourceTree = "<group>";
 		};
+		001BCBB32E499F7200CDF089 /* Animating views and transitions  */ = {
+			isa = PBXGroup;
+			children = (
+				001BCBB42E49A94B00CDF089 /* Section 1_Add hiking data to the app */,
+			);
+			path = "Animating views and transitions ";
+			sourceTree = "<group>";
+		};
+		001BCBB42E49A94B00CDF089 /* Section 1_Add hiking data to the app */ = {
+			isa = PBXGroup;
+			children = (
+				001BCBB52E49A95700CDF089 /* Section 1_Add hiking data to the app.swift */,
+				001BCBB72E49A97600CDF089 /* Hike.swift */,
+				001BCBB92E49D23200CDF089 /* HikeView.swift */,
+				001BCBBB2E49D36500CDF089 /* HikeGraph.swift */,
+			);
+			path = "Section 1_Add hiking data to the app";
+			sourceTree = "<group>";
+		};
+		001BCBBD2E49D73200CDF089 /* Composing complex interfaces  */ = {
+			isa = PBXGroup;
+			children = (
+				001BCBBE2E49E33500CDF089 /* Section 1_Add a category view */,
+			);
+			path = "Composing complex interfaces ";
+			sourceTree = "<group>";
+		};
+		001BCBBE2E49E33500CDF089 /* Section 1_Add a category view */ = {
+			isa = PBXGroup;
+			children = (
+				001BCBBF2E49E33F00CDF089 /* Section 1_Add a category view.swift */,
+			);
+			path = "Section 1_Add a category view";
+			sourceTree = "<group>";
+		};
 		007D5A3E2E431DB3000C1ECE /* BirdSongUI */ = {
 			isa = PBXGroup;
 			children = (
@@ -240,6 +285,8 @@
 				00C0D9182CD9C045004F148D /* Section7 */,
 				00C69A412C6EF63F00E64B97 /* Building lists and navigation  */,
 				001BCB702E45DC0100CDF089 /* Drawing paths and shapes  */,
+				001BCBB32E499F7200CDF089 /* Animating views and transitions  */,
+				001BCBBD2E49D73200CDF089 /* Composing complex interfaces  */,
 				007D5A3E2E431DB3000C1ECE /* BirdSongUI */,
 				00B3FCF32C6DA1CD00F92FC4 /* Preview Content */,
 			);
@@ -429,6 +476,7 @@
 				001BCB922E45E02200CDF089 /* SearchView.swift in Sources */,
 				001BCB902E45E02200CDF089 /* DetailView.swift in Sources */,
 				00B3FD042C6DA92A00F92FC4 /* Section 5.swift in Sources */,
+				001BCBBA2E49D23200CDF089 /* HikeView.swift in Sources */,
 				001BCBAA2E45E80B00CDF089 /* Section 3_Draw the badge symbol .swift in Sources */,
 				001BCBA32E45E33400CDF089 /* Bundle-Extensions.swift in Sources */,
 				001BCB992E45E02200CDF089 /* Extension+Color.swift in Sources */,
@@ -436,9 +484,13 @@
 				001BCB932E45E02200CDF089 /* Bird.swift in Sources */,
 				001BCB792E45DD0C00CDF089 /* HexagonParameters.swift in Sources */,
 				00B3FD092C6DAD3800F92FC4 /* MapView.swift in Sources */,
+				001BCBB62E49A95700CDF089 /* Section 1_Add hiking data to the app.swift in Sources */,
 				00C0D91A2CD9C0FA004F148D /* Section7.swift in Sources */,
 				00B3FD002C6DA77D00F92FC4 /* Section 4.swift in Sources */,
+				001BCBB82E49A97600CDF089 /* Hike.swift in Sources */,
 				00B3FD0B2C6DAD9400F92FC4 /* CircleImage.swift in Sources */,
+				001BCBC02E49E33F00CDF089 /* Section 1_Add a category view.swift in Sources */,
+				001BCBBC2E49D36500CDF089 /* HikeGraph.swift in Sources */,
 				001BCB972E45E02200CDF089 /* HomeBannerView.swift in Sources */,
 				00C69A442C6EF67500E64B97 /* Section 1 learn 2.swift in Sources */,
 				00C69A462C6EF6EF00E64B97 /* Landmark.swift in Sources */,

@@ -5,15 +5,7 @@
 //  Created by Nguyễn Tiến Minh on 11/08/2025.
 //
 
-import SwiftUI
 
-
-
-extension AnyTransition {
-    static var moveAndFade: AnyTransition {
-        AnyTransition.slide
-    }
-}
 
 import SwiftUI
 
@@ -65,10 +57,10 @@ struct HikeView: View {
             }
 
 
-            if showDetail {
-                HikeDetail(hike: hike)
-                    .transition(.moveAndFade)
-            }
+//            if showDetail {
+//                HikeDetail(hike: hike)
+//                    .transition(.moveAndFade)
+//            }
         }
     }
 }

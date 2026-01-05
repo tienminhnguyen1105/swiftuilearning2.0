@@ -1,16 +1,9 @@
-//
-//  HikeBadge.swift
-//  Swift_UI_1
-//
-//  Created by Nguyễn Tiến Minh on 28/08/2025.
-//
+
 
 import SwiftUI
 
 struct HikeBadge: View {
     var name: String
-
-
     var body: some View {
         VStack(alignment: .center) {
             Badge()
@@ -19,12 +12,13 @@ struct HikeBadge: View {
                 .frame(width: 100, height: 100)
             Text(name)
                 .font(.caption)
-                .accessibilityLabel("Badge for \(name).")
+                .accessibility(label: Text("Badge for \(name)."))
         }
     }
 }
 
-
-#Preview {
-    HikeBadge(name: "Preview Testing")
+struct HikeBadge_Previews: PreviewProvider {
+    static var previews: some View {
+        HikeBadge(name: "Preview Testing")
+    }
 }

@@ -21,6 +21,6 @@ struct Section_1_learn_2: View {
     }
 }
 
-#Preview {
-    Section_1_learn_2(landmark: landmarks[0])
-}
+//#Preview {
+//    Section_1_learn_2(landmark: landmarks[0])
+//}

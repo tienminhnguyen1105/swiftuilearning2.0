@@ -18,6 +18,6 @@ struct LandmarkRow: View {
     }
 }
 
-#Preview {
-    LandmarkRow(landMark: landmarks[0])
-}
+//#Preview {
+//    LandmarkRow(landMark: landmarks[0])
+//}

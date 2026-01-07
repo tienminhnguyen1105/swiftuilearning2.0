@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0003EB412F0D0984003D6094 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0003EB3F2F0D0984003D6094 /* PageView.swift */; };
+		0003EB422F0D0984003D6094 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0003EB3E2F0D0984003D6094 /* PageControl.swift */; };
+		0003EB432F0D0984003D6094 /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0003EB3D2F0D0984003D6094 /* CategoryRow.swift */; };
+		0003EB442F0D0984003D6094 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0003EB402F0D0984003D6094 /* PageViewController.swift */; };
 		001BCB772E45DCCA00CDF089 /* Section 1_Create drawing .swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCB762E45DCCA00CDF089 /* Section 1_Create drawing .swift */; };
 		001BCB792E45DD0C00CDF089 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCB782E45DD0C00CDF089 /* HexagonParameters.swift */; };
 		001BCB902E45E02200CDF089 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 001BCB812E45E02200CDF089 /* DetailView.swift */; };
@@ -72,6 +76,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0003EB3D2F0D0984003D6094 /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
+		0003EB3E2F0D0984003D6094 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
+		0003EB3F2F0D0984003D6094 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		0003EB402F0D0984003D6094 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		001BCB762E45DCCA00CDF089 /* Section 1_Create drawing .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Section 1_Create drawing .swift"; sourceTree = "<group>"; };
 		001BCB782E45DD0C00CDF089 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		001BCB812E45E02200CDF089 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
@@ -151,6 +159,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0003EB3C2F0D093F003D6094 /* Interfacing with UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				0003EB3D2F0D0984003D6094 /* CategoryRow.swift */,
+				0003EB3E2F0D0984003D6094 /* PageControl.swift */,
+				0003EB3F2F0D0984003D6094 /* PageView.swift */,
+				0003EB402F0D0984003D6094 /* PageViewController.swift */,
+			);
+			path = "Interfacing with UIKit";
+			sourceTree = "<group>";
+		};
 		001BCB702E45DC0100CDF089 /* Drawing paths and shapes  */ = {
 			isa = PBXGroup;
 			children = (
@@ -375,6 +394,7 @@
 				001BCB702E45DC0100CDF089 /* Drawing paths and shapes  */,
 				001BCBB32E499F7200CDF089 /* Animating views and transitions  */,
 				001BCBBD2E49D73200CDF089 /* Composing complex interfaces  */,
+				0003EB3C2F0D093F003D6094 /* Interfacing with UIKit */,
 				002A23D72E6058A10095FD2D /* Working with UI controls  */,
 				007D5A3E2E431DB3000C1ECE /* BirdSongUI */,
 				00B3FCF32C6DA1CD00F92FC4 /* Preview Content */,
@@ -605,6 +625,10 @@
 				00B3FCF02C6DA1CC00F92FC4 /* ContentView.swift in Sources */,
 				001BCB9C2E45E0CD00CDF089 /* TabbarView.swift in Sources */,
 				001BCB912E45E02200CDF089 /* HomeToolView.swift in Sources */,
+				0003EB412F0D0984003D6094 /* PageView.swift in Sources */,
+				0003EB422F0D0984003D6094 /* PageControl.swift in Sources */,
+				0003EB432F0D0984003D6094 /* CategoryRow.swift in Sources */,
+				0003EB442F0D0984003D6094 /* PageViewController.swift in Sources */,
 				001BCBA42E45E33400CDF089 /* DateHelper.swift in Sources */,
 				00C69A482C6EF73E00E64B97 /* ModelData.swift in Sources */,
 				00883D572F0B9A3D001097BD /* HikeDetail.swift in Sources */,
